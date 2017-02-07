@@ -1,0 +1,18 @@
+﻿Build started 2016/9/9 13:31:23.
+     1>Project "D:\Code\IICorrection\IICorrection\IICorrection.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\IICorrection.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt IICorrection.cpp InhomoCorrect.cpp
+         IICorrection.cpp
+         InhomoCorrect.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\IICorrection\Release\IICorrection.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\Code\IICorrection\Release /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Code\IICorrection\Release\IICorrection.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Code\IICorrection\Release\IICorrection.lib" /MACHINE:X86 /SAFESEH Release\IICorrection.obj
+         Release\InhomoCorrect.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         IICorrection.vcxproj -> D:\Code\IICorrection\Release\IICorrection.exe
+     1>Done Building Project "D:\Code\IICorrection\IICorrection\IICorrection.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.07
